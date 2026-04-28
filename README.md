@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Misbah Ahmed
+# 👋 Hellow, world! - I'm Misbah Ahmed
 
 🎯 **Aspiring Python Developer | Data Analytics Learner | Problem Solver**
 
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I focus on building practical projects that streng
 ## 🚀 About Me
 
 * 🎓 Background in **Mathematics**
-* 💡 Currently learning: **Python, Data Analytics, Flask**
+* 💡 Currently learning: **Python, Data Analytics, DSA**
 * 🔍 Interested in: **Data Science, Backend Development, Automation**
 * 🌍 Based in: **Bangladesh**
-* 📈 Goal: To become a **Job-ready Python Developer / Data Analyst**
+* 📈 Goal: To become a **Practical Problem solver**
 
 ---
 
@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I focus on building practical projects that streng
 **Languages & Tools:**
 
 * Python 🐍
-* C++ ⚙️
 * HTML, CSS 🌐
 * Flask 🔥
 * Git & GitHub 🧰
@@ -31,7 +30,7 @@ Welcome to my GitHub profile! I focus on building practical projects that streng
 
 * Pandas & NumPy
 * SQL
-* Data Visualization
+* Data Analytics
 
 ---
 
@@ -77,9 +76,8 @@ A classic Snake game built using Python.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your link]
-* 📧 Email: [your email]
-* 🌐 Portfolio: [Add if available]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/misbah-ahmed-354510193/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mrmisbah@proton.me)
 
 ---
 
@@ -87,13 +85,13 @@ A classic Snake game built using Python.
 
 * Building real-world **Flask web applications**
 * Strengthening **data analysis skills**
-* Preparing for **remote jobs and internships**
+* Solidify **DSA skills**
 
 ---
 
 ## ✨ Mindset
 
-I believe in **consistency over intensity**. Small daily improvements are building my long-term success in tech.
+I believe in **consistency over intensity**. Small daily improvements are compounding my long-term success in tech.
 
 ---
 
