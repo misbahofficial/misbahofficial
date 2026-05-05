@@ -66,14 +66,6 @@ A classic Snake game built using Python.
 * Game-over detection and restart logic
 * 📌 Focus: **Game logic, loops, event handling**
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=misbahofficial\&show_icons=true\&theme=default)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misbah-ahmed-354510193/)
